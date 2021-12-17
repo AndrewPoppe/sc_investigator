@@ -5,3 +5,5 @@ $trimmed_input = trim($raw_input);
 
 echo $raw_input;
 echo $trimmed_input;
+
+var_dump("BAD")
